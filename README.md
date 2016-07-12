@@ -1,4 +1,3 @@
-# Getting-and-Cleaning-Data-final-assigment
 Getting-and-Cleaning-Data
 =========================
 
